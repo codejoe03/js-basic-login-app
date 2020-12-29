@@ -1,0 +1,7 @@
+JS Login Authentication
+--------------------------
+- Basic login application.
+- Basic use of Array and worked using OOP
+- The login details are:
+  User Name: joe
+  Password: joe
